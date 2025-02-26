@@ -9,7 +9,7 @@ SecurePassGen is a simple yet powerful password generator written in Python. It 
 - Generate multiple passwords at once
 - Save generated passwords to a text file
 
-## Installation
+## Installation 
 
 Ensure you have Python installed on your system. 
    
