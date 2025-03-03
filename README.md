@@ -14,7 +14,7 @@ SecurePassGen is a simple yet powerful password generator written in Python. It 
 Ensure you have Python installed on your system. 
    
 ## Usage  
-  
+   
 Run the script using:   
 
 ```sh
