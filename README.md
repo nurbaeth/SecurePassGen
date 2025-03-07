@@ -20,7 +20,7 @@ Run the script using:
 ```sh
 python securepassgen.py
 ```
-
+ 
 Follow the prompts to generate passwords with your preferred settings.
 
 ## Example Output 
