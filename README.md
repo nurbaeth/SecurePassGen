@@ -27,7 +27,7 @@ Follow the prompts to generate passwords with your preferred settings.
 
 ```
 Enter number of passwords to generate: 5
-Enter password length: 12
+Enter password length: 12 
 Include digits? (y/n): y
 Include uppercase letters? (y/n): y
 Include lowercase letters? (y/n): y
