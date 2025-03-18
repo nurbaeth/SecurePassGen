@@ -23,7 +23,7 @@ python securepassgen.py
  
 Follow the prompts to generate passwords with your preferred settings.
 
-## Example Output 
+## Example Output  
 
 ```
 Enter number of passwords to generate: 5
