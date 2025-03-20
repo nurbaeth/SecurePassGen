@@ -16,7 +16,7 @@ Ensure you have Python installed on your system.
 ## Usage     
     
 Run the script using:    
-
+ 
 ```sh
 python securepassgen.py
 ```
